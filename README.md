@@ -5,12 +5,18 @@
 
 1 - part 3 - https://colab.research.google.com/drive/18Izba3ovZnX6NEDeyuCKYTtOyJRXSbL6?authuser=2
 
-2 - 
+2 - https://colab.research.google.com/drive/1OweJdNsupjNsa2p0joRRFzS1EDL_aTOZ?authuser=2
+
 3 - 
+
 4 - 
+
 5 - 
+
 6 -
+
 7 - 
+
 8 - 
 
 # Deep Learning Course
