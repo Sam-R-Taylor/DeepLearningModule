@@ -1,3 +1,15 @@
+My COLAB links: 
+1 - part 1 - https://colab.research.google.com/drive/1vnr91_VRDxTbzLB0gMZmeO5kENgWJwaM?authuser=2
+1 - part 2 - https://colab.research.google.com/drive/16VlzF4dHgi84-W9gyoa3keunrX_QxkpN?authuser=2
+1 - part 3 - https://colab.research.google.com/drive/18Izba3ovZnX6NEDeyuCKYTtOyJRXSbL6?authuser=2
+2 - 
+3 - 
+4 - 
+5 - 
+6 -
+7 - 
+8 - 
+
 # Deep Learning Course
 Welcome! Here we will upload the different tutorials for the Deep Learning course. 
 We will use Python and [Jupyter Notebook](https://jupyter.org/), and [Keras](https://keras.io/) as the deep learning framework.
